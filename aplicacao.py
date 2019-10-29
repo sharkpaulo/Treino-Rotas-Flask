@@ -12,57 +12,57 @@ def cursos():
     return render_template("cursos.html")
 
 
-@app.route('/')
+@app.route('/noticias.html')
 def noticias():
     return render_template("noticias.html")
 
 
-@app.route('/')
+@app.route('/administracao.html')
 def admin():
     return render_template("administracao.html")
 
 
-@app.route('/')
+@app.route('/engenhariadecomputacao.html')
 def engenharia():
     return render_template("engenhariadecomputacao.html")
 
 
-@app.route('/')
+@app.route('/sistemasdeinformacao.html')
 def sistemas():
     return render_template("sistemasdeinformacao.html")
 
 
-@app.route('/')
+@app.route('/cienciadacomputacao.html')
 def ciencia():
     return render_template("cienciadacomputacao.html")
 
 
-@app.route('/')
+@app.route('/defesacibernetica.html')
 def defesa():
     return render_template("defesacibernetica.html")
 
 
-@app.route('/')
+@app.route('/bancodedados.html')
 def banco():
     return render_template("bancodedados.html")
 
 
-@app.route('/')
+@app.route('/jogosdigitais.html')
 def jogos():
     return render_template("jogosdigitais.html")
 
 
-@app.route('/')
+@app.route('/redesdecomputadores.html')
 def redes():
     return render_template("redesdecomputadores.html")
 
 
-@app.route('/')
+@app.route('/mecatronica.html')
 def mecatronica():
     return render_template("mecatronica.html")
 
 
-@app.route('/')
+@app.route('/telecomunicacoes.html')
 def telecomunicacoes():
     return render_template("telecomunicacoes.html")
 
