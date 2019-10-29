@@ -1,0 +1,31 @@
+body{
+    background: rgb(58, 133, 194);
+}
+p{
+    font-family: arial;
+    color: white;
+}
+h3{
+    text-align: left;
+    color:black;
+}
+texto{
+    margin-left: 10px;
+}
+.menu{
+    background:#ADD8E6;
+    float: right;
+}
+a:link{
+    color: white;
+    font-size: 25px;
+}
+a:visited{
+    color: white;
+}
+a:hover{
+    color: crimson;
+}
+p.right {
+    text-align:right;
+}

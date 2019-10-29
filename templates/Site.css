@@ -1,0 +1,26 @@
+body{
+    background: #F4A460;
+}
+h1{
+    color: black;
+}
+p{
+    color: black;
+}
+.menu{
+    background:#ADD8E6;
+    float: right;
+}
+a:link{
+    color: white;
+    font-size: 25px;
+}
+a:visited{
+    color: white;
+}
+a:hover{
+    color: crimson;
+}
+.imgcurso{
+    float: right
+}
